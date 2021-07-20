@@ -1,0 +1,11 @@
+params,./input/params_test.csv
+age,./input/test/indivAge_test.csv
+network,./input/test/net_freq_test.csv
+households,./input/test/indiv_HH_test.csv
+workplaces,./input/test/indiv_WID_test.csv
+schools,./input/test/indiv_SID_test.csv
+immunity,./input/test/immunity/status_file_
+susceptibility,./input/test/susceptibility.csv
+subclinical,./input/test/subclinical.csv
+subclinicalVaccinated,./input/test/subclinicalVaccinated.csv
+universities,./input/test/indiv_UnivID_test.csv
