@@ -24,12 +24,18 @@ executable file is vaccination.exe
 
 # get help
 ./vaccination.exe -h 
-        -h : print this help
-        -n N runs scenario N
-        -s SEED sets random seed to SEED (0 for time)
-        -f FILENAME for input (default filenames.txt)
-        -i 0 for computing (natural) initial immunity/ -i 1 constrained to max incidence
-        -j 0 (random seed) / 1 (seed only exposed) / 2 (seed exposed and others) / 3 (seed all exposed file) / 4 (same as 2 but random)
+
+-h : print this help
+
+-n N runs scenario N
+
+-s SEED sets random seed to SEED (0 for time)
+
+-f FILENAME for input (default filenames.txt)
+
+-i 0 for computing (natural) initial immunity/ -i 1 constrained to max incidence
+
+-j 0 (random seed) / 1 (seed only exposed) / 2 (seed exposed and others) / 3 (seed all exposed file) / 4 (same as 2 but random)
 
 # parameter file - list of all parameters
 input/params_test.csv
