@@ -9,13 +9,17 @@ by Faucher, B et al.
 #INSTALLATION
 ############################
 
-The code must be compiled with g++. Tested with g++ 5.2.0
-The code uses standard c++ libraries
+The code has been compiled with g++ on linux and Windows. Tested with g++ 5.2.0
+The code uses standard c++ libraries.
 
+Directories : 
 source code (.cpp,.h,Makefile) in src folder
 filenames_test.txt in src folder
 tests.tgz in src/input/test folder
 
+###########################
+# BUILD
+##########################
 make all # takes <60 secs
 
 executable file is vaccination.exe
@@ -48,7 +52,7 @@ mkdir src/output
 
 #output
 files in output/CT_vrandomtype4_vdaily50_b013_im20_c74482cf_test
-run time <30 s
+run time depend on repetitions
 
 ##############################
 #
