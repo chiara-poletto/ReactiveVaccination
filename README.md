@@ -2,6 +2,8 @@
 README
 
 This repository contains file for the individual based model used in the companion paper listed below :
+Reactive vaccination in Schools and Workplaces for COVID-19
+by Faucher, B et al.
 
 ############################
 #INSTALLATION
